@@ -2,8 +2,9 @@ import React, { Component } from 'react';
 import LanguageList from './LanguageList';
 import Quiz from './Quiz';
 import "./styledComponents/content.css";
-import Scenarios from './Scenarios'
+import Scenarios from './Scenarios';
 import axios from 'axios';
+
 
 
 class ChooseLanguage extends Component {
