@@ -8,7 +8,8 @@ const LanguageList = (props) => {
   ReactDOM.render(
     <VoicePlayer
       play
-      text="Español"
+      text="Restaurante"
+      lang='es-ES'
     />,
     document.getElementById('root')
   )
