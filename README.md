@@ -1,15 +1,13 @@
 # LocalizR!
 
-![image](https://user-images.githubusercontent.com/29259526/38883114-eb07d3ea-4263-11e8-9acc-ab4794077306.png)
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/29259526/38883114-eb07d3ea-4263-11e8-9acc-ab4794077306.png" width="500" ="center">
+ </p>
 
-Welcome to the repo for our final project at Makers Academy! Our application is an interactive game that takes the user on a language-learning journey.
+Welcome to the repo for our final project at Makers Academy! Our application is an interactive game that takes the user on a language-learning journey. The user can pick a language presented with multiple questions, each answer will add points and the total score will be display at the end.
 
-__DESIGNED BY__:
-- Joshua Holloway
-- Hannah Lillis
-- Kaari Strack
-- Magyar-Hunor Tamas
-- Jenny Arenas Marin
+You can view the demo [here](https://drive.google.com/file/d/1W6bZvriSezpICfNLzMZp4kgpO7OQm700/view?usp=sharing)
+
 
 <hr>
 
@@ -19,6 +17,7 @@ __DESIGNED BY__:
 
 __Front End__:
 - React
+- JSX
 - CSS (styled components)
 
 __Back End__:
@@ -59,12 +58,14 @@ Run the server, and begin!
 $ npm run start-dev
 ```
 Run test 
+```
 $ npm t a
+```
 
 <hr>
 
 ## User Stories :video_game:
-
+```
 __Minimum Viable Product__:
 
 As someone who travels often
@@ -110,8 +111,15 @@ I want to be able to sign out.
 As a user
 so I can play a random scenario
 I want to be able to click a button to randomly choose a quiz for me.
-
+```
 <hr>
+
+## Architecture diagram of our project
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/29259526/38885862-34842066-426c-11e8-9a4d-f86866bf2eca.png" width="500" ="center">
+ </p>
+
 
 ## Final Thoughts
 
@@ -120,7 +128,14 @@ Althought we weren't able to finish the project, I learnt the basics of React, n
 Next time, in the execution of a project, I will keep the good standards of code applying TDD in all the steps of the project.
 
 
+## Authors
 
+__DESIGNED BY__:
+- Joshua Holloway
+- Hannah Lillis
+- Kaari Strack
+- Magyar-Hunor Tamas
+- Jenny Arenas Marin
 
 
 
