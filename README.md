@@ -1,6 +1,6 @@
 # LocalizR!
 
-<img align="right" src="" width="450"/>
+![image](https://user-images.githubusercontent.com/29259526/38883114-eb07d3ea-4263-11e8-9acc-ab4794077306.png)
 
 Welcome to the repo for our final project at Makers Academy! Our application is an interactive game that takes the user on a language-learning journey.
 
@@ -58,6 +58,8 @@ Run the server, and begin!
 ```
 $ npm run start-dev
 ```
+Run test 
+$ npm t a
 
 <hr>
 
@@ -65,39 +67,60 @@ $ npm run start-dev
 
 __Minimum Viable Product__:
 
-- As someone who travels often, so I can learn useful phrases, I want to be able to practice a language.
+As someone who travels often
+so I can learn useful phrases 
+I want to be able to practice a language.
 
 __Features__:
 
-- As a user, so I can decide what to practice, I want to be able to select a language.
+As a user
+so I can decide what to practice
+I want to be able to select a language.
 
-- As a traveller, so I can learn a language, I want to be able to choose an answer to a question.
+As a traveller
+so I can learn a language
+I want to be able to choose an answer to a question.
 
-- As a user, so I can play the game, I want to be able to enter my details.
+As a user
+so I can play the game
+I want to be able to enter my details.
 
-- As a user, so I can keep track of my progress, I want to be able to see my score.
+As a user
+so I can keep track of my progress 
+I want to be able to see my score.
 
 __Extras__
 
-- As a user, so I can play the game, I want to be able to sign up.
+As a user
+so I can play the game
+I want to be able to sign up.
 
-- As a user, so I can play the game, I want to able to sign in.
+As a user
+so I can play the game 
+I want to able to sign in.
 
-- As a user, so I can enjoy my results, I want to be able to read a comment on how well I did.
+As a user
+so I can enjoy my results 
+I want to be able to read a comment on how well I did.
 
-- As a user, so I can keep my account secure, I want to be able to sign out.
+As a user
+so I can keep my account secure 
+I want to be able to sign out.
 
-- As a user, so I can play a random scenario, I want to be able to click a button to randomly choose a quiz for me.
+As a user
+so I can play a random scenario
+I want to be able to click a button to randomly choose a quiz for me.
 
 <hr>
 
-## Future Additions
+## Final Thoughts
 
-We have two user stories that we were not able to complete in time. Both of which we will look to
-integrate into the project after the completion date (12th April)
+Our approach to the final project was initially the creation of a Minimum Viable Product(MVP), using User Stories and diagrams as a guide of the product requirements folowing the Agile methodology and implementing good practices like Test Driven Development using testing frameworks like Jest and cyprus. 
+Althought we weren't able to finish the project, I learnt the basics of React, node and MongoDB, If given more time, We would have continue implementing TDD in new features added in the project and we would have created a new database to hold all the information of questions and scenarios.
+Next time, in the execution of a project, I will keep the good standards of code applying TDD in all the steps of the project.
 
-- As a user, so I can improve my pronunciation, I want to be able to hear example audio.
 
-- As a user, so I can satisfy my competitiveness, I want to see a leaderboard.
 
-- As a user, so I can follow my story, I want to see the outcome of my answer.
+
+
+
