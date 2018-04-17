@@ -123,9 +123,9 @@ I want to be able to click a button to randomly choose a quiz for me.
 
 ## Final Thoughts
 
-Our approach to the final project was initially the creation of a Minimum Viable Product(MVP), using User Stories and diagrams as a guide of the product requirements folowing the Agile methodology and implementing good practices like Test Driven Development using testing frameworks like Jest and cyprus. 
+Our approach to the final project was initially the creation of a Minimum Viable Product(MVP), using User Stories and diagrams as a guide of the product requirements following the Agile methodology and implementing good practices like Test Driven Development using testing frameworks like Jest and cyprus. 
 Althought we weren't able to finish the project, I learnt the basics of React, node and MongoDB, If given more time, We would have continue implementing TDD in new features added in the project and we would have created a new database to hold all the information of questions and scenarios.
-Next time, in the execution of a project, I will keep the good standards of code applying TDD in all the steps of the project.
+Next time, in the execution of a project, I will keep the good standards of code applying TDD in all the steps of the application.
 
 
 ## Authors
